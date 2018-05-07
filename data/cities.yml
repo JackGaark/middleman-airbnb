@@ -1,0 +1,13 @@
+rio:
+  name: "Le Wagon Rio"
+  address: "32 calle Del Placer"
+  started: false
+paris:
+  name: "Le Wagon Paris"
+  address: "16 Villa Gaudelet"
+  started: false
+berlin:
+  name: "Le Wagon Berlin"
+  address: "12 Strasse I don't know"
+  started: true
+
